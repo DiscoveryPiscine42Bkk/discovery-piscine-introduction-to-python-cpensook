@@ -13,13 +13,3 @@ elif value < 0:
 else:
 	print("This number is both positive and negative.")
 
-?> ./isneg.py
-42
-This number is positive.
-?> ./isneg.py
--42
-This number is negative.
-?> ./isneg.py
-0
-This number is both positive and negative.
-?>
