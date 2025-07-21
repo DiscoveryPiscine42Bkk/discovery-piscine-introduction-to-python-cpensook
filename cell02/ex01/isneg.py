@@ -12,7 +12,8 @@ elif value < 0:
 # หากทั้งสองเงื่อนไขไม่เป็นจริง: ให้ทำงานตรงนี้แทน
 else:
 	print("This number is both positive and negative.")
-	?> ./isneg.py
+
+?> ./isneg.py
 42
 This number is positive.
 ?> ./isneg.py
